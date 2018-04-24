@@ -1,2 +1,2 @@
 # machine-learning
-machine-learning notebooks
+machine-learning notebooks demonstrating regression and classification problems
