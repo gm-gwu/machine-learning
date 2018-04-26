@@ -1,7 +1,7 @@
 # My machine-learning projects (notebooks)
 In this repository I will be uploading my machine learning projects (notebooks), the goal is to demonstrate and put my academic knowledge to solve real world problems. I have uploaded two notebooks that demonstrate regression and classification problems. The datasets and problems are from two of the recent Microsoft Capstone projects that I successfully completed.
 
-## In the first notebook (PredictStudentLoanRepayRate-XGBRegressor.ipynb):
+## First notebook (PredictStudentLoanRepayRate-XGBRegressor.ipynb):
 
 The goal of the analysis is to predict the repayment rate for loans given to students at United States institutions of higher education. 
 
@@ -11,7 +11,7 @@ A student's ability to repay loans depends on the job they get after graduation.
 
 After exploring the data by calculating summary and descriptive statistics, and by creating visualizations of the data, several potential relationships between student loan characteristics and repayment rate were identified. After exploring the data, a regression model to predict repayment rate from its features was created. By modeling what percent of students repay their loans, we can better understand the properties of schools that make them better or worst investments.
 
-## In the second notebook (NepalEarthquake-multi-class-classification.ipynb):
+## Second notebook (NepalEarthquake-multi-class-classification.ipynb):
 
 In April, 2015, a 7.8 magnitude earthquake with an epicenter in the Gorkha District of Nepal devastated the surrounding area, resulting in almost 9,000 deaths and 22,000 injuries. Some of these casualties happened in buildings that collapsed in the earthquake, and may have been preventable if they had withstood the initial ground motion or resulting aftershocks.
 
